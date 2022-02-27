@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{E7FDE40F-105C-4266-BA99-7D220D68BB9E}|Default">
+  <MonoDevelop.Ide.ItemProperties.NorthwindManager PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NorthwindManager/Dtos/ProductDto.cs">
+    <Files>
+      <File FileName="NorthwindManager/Controllers/NorthwindController.cs" Line="32" Column="10" />
+      <File FileName="NorthwindManager/Services/NorthwindService.cs" />
+      <File FileName="NorthwindManager/Dtos/CustomerDto.cs" />
+      <File FileName="NorthwindManager/Dtos/ProductDto.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NorthwindManager" expanded="True">
+            <Node name="NorthwindManager" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Dtos" expanded="True">
+                <Node name="ProductDto.cs" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="NorthwindManagerDb" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

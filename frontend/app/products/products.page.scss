@@ -1,0 +1,16 @@
+#close:hover{
+    cursor: pointer;
+}
+
+thead{
+    background: var(--ion-color-light);
+}
+
+.header{
+    background: var(--ion-color-light);
+}
+
+.product-grid, ion-col{
+    border: 1px solid;
+    border-collapse: collapse;
+}

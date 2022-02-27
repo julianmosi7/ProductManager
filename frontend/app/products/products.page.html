@@ -1,0 +1,49 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+      <ion-back-button></ion-back-button>
+    </ion-buttons>
+    <ion-title>Products</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div id="container">
+    <ion-button color="primary" (click)="setShowCard()" *ngIf="showBtn">Select Columns</ion-button>
+    <ion-card *ngIf="showCard">
+      
+      <ion-card-header>
+        <ion-card-subtitle>
+          <ion-label>Select Columns </ion-label>
+          <ion-icon name="close-circle" id=close (click)="setShowCard()"></ion-icon>
+        </ion-card-subtitle>
+      </ion-card-header>
+      <ion-card-content>
+        <ion-item *ngFor="let entry of entries">
+          <ion-label>{{entry.name}}</ion-label>
+          <ion-checkbox slot="end" [(ngModel)]="entry.isChecked"></ion-checkbox>
+        </ion-item>
+      </ion-card-content>
+    </ion-card>
+    <div class="product_grid">
+      <ion-grid>
+        <ion-row>
+          <ion-col class="header" size="1" *ngIf="entries[0].isChecked"><ion-label>Id</ion-label></ion-col>
+          <ion-col class="header" size="3" *ngIf="entries[1].isChecked"><ion-label>Name</ion-label></ion-col>
+          <ion-col class="header" size="3" *ngIf="entries[2].isChecked"><ion-label>Category</ion-label></ion-col>
+          <ion-col class="header" size="3" *ngIf="entries[3].isChecked"><ion-label>Company</ion-label></ion-col>
+          <ion-col class="header" size="2" *ngIf="entries[4].isChecked"><ion-label>Price</ion-label></ion-col>
+        </ion-row>
+        <ion-row *ngFor="let product of products">
+          <ion-col size="1" *ngIf="entries[0].isChecked">{{product.productID}}</ion-col>
+          <ion-col size="3" *ngIf="entries[1].isChecked">{{product.productName}}</ion-col>
+          <ion-col size="3" *ngIf="entries[2].isChecked">{{product.categoryName}}</ion-col>
+          <ion-col size="3" *ngIf="entries[3].isChecked">{{product.companyNameSupplier}}</ion-col>
+          <ion-col size="2" *ngIf="entries[4].isChecked">{{product.price}}</ion-col>
+        </ion-row>
+      </ion-grid>
+    </div>
+    
+  </div>
+</ion-content>

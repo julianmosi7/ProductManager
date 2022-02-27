@@ -1,0 +1,14 @@
+/Users/julianmosi/Documents/School/5.Klasse/POS/abgabe/Ionic_Northwind/NorthwindManager/NorthwindManagerDb/bin/Debug/netcoreapp3.1/northwnd.sqlite
+/Users/julianmosi/Documents/School/5.Klasse/POS/abgabe/Ionic_Northwind/NorthwindManager/NorthwindManagerDb/bin/Debug/netcoreapp3.1/NorthwindManagerDb.deps.json
+/Users/julianmosi/Documents/School/5.Klasse/POS/abgabe/Ionic_Northwind/NorthwindManager/NorthwindManagerDb/bin/Debug/netcoreapp3.1/NorthwindManagerDb.runtimeconfig.json
+/Users/julianmosi/Documents/School/5.Klasse/POS/abgabe/Ionic_Northwind/NorthwindManager/NorthwindManagerDb/bin/Debug/netcoreapp3.1/NorthwindManagerDb.runtimeconfig.dev.json
+/Users/julianmosi/Documents/School/5.Klasse/POS/abgabe/Ionic_Northwind/NorthwindManager/NorthwindManagerDb/bin/Debug/netcoreapp3.1/NorthwindManagerDb.dll
+/Users/julianmosi/Documents/School/5.Klasse/POS/abgabe/Ionic_Northwind/NorthwindManager/NorthwindManagerDb/bin/Debug/netcoreapp3.1/NorthwindManagerDb.pdb
+/Users/julianmosi/Documents/School/5.Klasse/POS/abgabe/Ionic_Northwind/NorthwindManager/NorthwindManagerDb/obj/Debug/netcoreapp3.1/NorthwindManagerDb.csprojAssemblyReference.cache
+/Users/julianmosi/Documents/School/5.Klasse/POS/abgabe/Ionic_Northwind/NorthwindManager/NorthwindManagerDb/obj/Debug/netcoreapp3.1/NorthwindManagerDb.AssemblyInfoInputs.cache
+/Users/julianmosi/Documents/School/5.Klasse/POS/abgabe/Ionic_Northwind/NorthwindManager/NorthwindManagerDb/obj/Debug/netcoreapp3.1/NorthwindManagerDb.AssemblyInfo.cs
+/Users/julianmosi/Documents/School/5.Klasse/POS/abgabe/Ionic_Northwind/NorthwindManager/NorthwindManagerDb/obj/Debug/netcoreapp3.1/NorthwindManagerDb.csproj.CoreCompileInputs.cache
+/Users/julianmosi/Documents/School/5.Klasse/POS/abgabe/Ionic_Northwind/NorthwindManager/NorthwindManagerDb/obj/Debug/netcoreapp3.1/EFCorePluralizer.cs
+/Users/julianmosi/Documents/School/5.Klasse/POS/abgabe/Ionic_Northwind/NorthwindManager/NorthwindManagerDb/obj/Debug/netcoreapp3.1/NorthwindManagerDb.dll
+/Users/julianmosi/Documents/School/5.Klasse/POS/abgabe/Ionic_Northwind/NorthwindManager/NorthwindManagerDb/obj/Debug/netcoreapp3.1/NorthwindManagerDb.pdb
+/Users/julianmosi/Documents/School/5.Klasse/POS/abgabe/Ionic_Northwind/NorthwindManager/NorthwindManagerDb/obj/Debug/netcoreapp3.1/NorthwindManagerDb.genruntimeconfig.cache
